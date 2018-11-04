@@ -1,0 +1,9 @@
+namespace boborobotbit {
+    const MODE = 1
+    const MODE1 = 2
+    
+    function test(addr: number)
+    {
+      number++
+    }
+}
